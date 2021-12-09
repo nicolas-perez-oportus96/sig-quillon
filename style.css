@@ -1,0 +1,65 @@
+.hero{
+    background: url('./assets/hero.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.titulo{
+    color: #1e8e2e;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 45px;
+}
+
+.sub {
+    font-weight: 300;
+}
+
+
+.logo{
+    max-width: 12vw;
+}
+
+.apps {
+    padding-top: 80px;
+    padding-bottom: 150px;
+}
+
+.card {
+    max-width: 300px;
+}
+
+.icon{
+    font-size: 40px;
+}
+
+
+.footer {
+    background-color: #333333;
+    color: white;
+}
+
+strong {
+    color: white;
+}
+
+.button{
+    background-color: #1e8e2e;
+    color: white;
+    border: #1e8e2e;
+    font-weight: 600;
+}
+
+.map {
+    height: 88vh;
+    width: 100vw;
+}
+
+.tipo{
+    color:#1e8e2e
+}
+
+
+.file{
+    color:#1e8e2e
+}
